@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232280311144",
+    "firebase_url": "https://hair-stylist-2d2a1.firebaseio.com",
+    "project_id": "hair-stylist-2d2a1",
+    "storage_bucket": "hair-stylist-2d2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232280311144:android:6cf5174fcbbe1cc36582dd",
+        "android_client_info": {
+          "package_name": "com.example.app_barbearia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232280311144-774oergo5k0f474n84mt2non79nhm2ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBueBgQLXsE6aixLJdiTFTzxFY3TeQjfRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232280311144-774oergo5k0f474n84mt2non79nhm2ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
